@@ -5,8 +5,9 @@
 
 https://www.raspbian.org/RaspbianRepository
 https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=47944
-
+http://raspberryparatorpes.net/sistemas-operativos/actualizar-a-raspbian-jessie/
 https://welldefinedbehaviour.wordpress.com/2015/07/17/upgrading-the-raspberry-pi-2-from-wheezy-to-jessie/
+https://learn.adafruit.com/apt-adafruit-com/adding-the-repository
 
 TODAY=$(date +"%Y-%m-%d")
 
